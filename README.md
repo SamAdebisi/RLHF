@@ -16,10 +16,10 @@ A curated collection of foundational and advanced Reinforcement Learning (RL) an
 ```
 ├── DPO_Code/                       # Direct Preference Optimization
 ├── DQN_Code/                       # Deep Q-Network
-├── MCvsTD/                  # Monte Carlo vs Temporal Difference
+├── MCvsTD/                         # Monte Carlo vs Temporal Difference
 ├── PPO_Code/                       # Proximal Policy Optimization
 ├── RLHF_Code/                      # Reinforcement Learning with Human Feedback
-├── value_iteration_FrozenLake/ # Value Iteration on FrozenLake
+├── value_iteration_FrozenLake/     # Value Iteration on FrozenLake
 ├── README.md
 └── requirements.txt
 ```
