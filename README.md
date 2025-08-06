@@ -13,6 +13,7 @@ A curated collection of foundational and advanced Reinforcement Learning (RL) an
 
 ## 📁 Project Structure
 
+```
 ├── DPO_Code/                       # Direct Preference Optimization
 ├── DQN_Code/                       # Deep Q-Network
 ├── MCvsTD/                  # Monte Carlo vs Temporal Difference
@@ -21,6 +22,7 @@ A curated collection of foundational and advanced Reinforcement Learning (RL) an
 ├── value_iteration_FrozenLake/ # Value Iteration on FrozenLake
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
